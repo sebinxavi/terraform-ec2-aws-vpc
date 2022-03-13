@@ -1,6 +1,6 @@
 # AWS VPC Creation with Terraform
 
-This terraform sript will create a VPC with 
+This terraform script will create a VPC with 
 - Internet Gateway
 - Subnets accross 2 AZs: one public and one private subnet
 
