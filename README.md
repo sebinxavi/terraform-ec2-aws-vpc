@@ -12,5 +12,5 @@ The ec2 instance in the public subnet is assigned a security group with access f
 
 The ec2 instance in the private subnet is assigned to a security group that only allows ssh access only from connections in the public subnet.
 
-Both security groups are dynamically created using network module.
+Both security groups are dynamically created using network module!
 
